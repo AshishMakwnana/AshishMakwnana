@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ashish Makwana 👋
 
-<!--
-**AshishMakwnana/AshishMakwnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Professional Full Stack Developer with over 6+ years of experience in:
 
-Here are some ideas to get you started:
+- **Backend:** PHP, Laravel, CodeIgniter
+- **Frontend:** ReactJs, Redux, React Hooks, Typescript, HTML5, CSS3, Tailwind, Bootstrap, JavaScript, JQuery, Ajax
+- **Other:** Firebase, Payment Integrations (PayPal, Stripe, Razorpay, PayU Money), Google Calendar, Third-party APIs, CRM Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building scalable and efficient web applications. Let's connect and create something amazing together!
+
+📫 **Contact Me:**
+- **Email:** ashishmakwana435@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/ashish-makwana-0b7663228/
+
