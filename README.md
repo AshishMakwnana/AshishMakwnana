@@ -1,6 +1,6 @@
 # Hi there, I'm Ashish Makwana 👋
 
-I'm a Professional Full Stack Developer with over 6+ years of experience in:
+I'm a Professional Full Stack Developer with over 2+ years of experience in:
 
 - **Backend:** PHP, Laravel, CodeIgniter
 - **Frontend:** ReactJs, Redux, React Hooks, Typescript, HTML5, CSS3, Tailwind, Bootstrap, JavaScript, JQuery, Ajax
